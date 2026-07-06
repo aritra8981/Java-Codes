@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class switcCase {
+public class switchCase {
     static void main() {
         System.out.println("Enter the value for day: ");
         Scanner sc = new Scanner(System.in);
